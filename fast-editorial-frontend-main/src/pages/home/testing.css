@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+}
+
+button {
+  margin: 0.5rem;
+}
+
+.add-item-button {
+  background-color: black;
+  color: white;
+}
+
+.delete-icon {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.sort-button {
+  background-color: green;
+  color: white;
+  top: 6rem;
+  right: 2rem;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 0.5rem 0;
+}
